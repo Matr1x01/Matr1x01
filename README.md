@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Matr1x01
-- 👀 I’m interested in Web devlopment and machine learning
-- 🌱 I’m currently learning Laravel
+- 👀 I’m interested in Web development and machine learning
+- 🌱 I’m currently working with Laravel
 - 📫 Reach me via mazharul.haq016@gmail.com
 
 <!---
