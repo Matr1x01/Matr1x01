@@ -18,7 +18,6 @@
 
 - 🛠️ I mostly build backends: APIs, payments, and systems that need to stay correct under load
 - 🐹 Currently having fun with **Go**
-- 🎧 Into audio gear, which is how [trnBlackPearlEq](https://github.com/Matr1x01/trnBlackPearlEq) happened
 - 🌱 Always learning something new
 
 ### 🧰 Tech I use
@@ -26,10 +25,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,go,py,nodejs,mysql,postgres,docker,githubactions,ts,react,nextjs,tailwind,git,linux&perline=8" alt="PHP, Laravel, Go, Python, Node.js, MySQL, PostgreSQL, Docker, GitHub Actions, TypeScript, React, Next.js, Tailwind, Git, Linux" />
 </p>
-
-### 🚀 Featured project
-
-**[🎚️ trnBlackPearlEq](https://github.com/Matr1x01/trnBlackPearlEq)**: an offline control panel for the TRN Black Pearl USB DAC. It has a parametric EQ, a preset library, and device controls. The backend is in Go and the UI is React + TypeScript, packaged with Tauri.
 
 ---
 
